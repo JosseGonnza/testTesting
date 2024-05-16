@@ -1,5 +1,6 @@
 package com.jossegonnza.junit_project;
 
+import com.jossegonnza.junit_project.moneyUtil.MoneyUtil;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

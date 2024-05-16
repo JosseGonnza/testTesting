@@ -1,4 +1,4 @@
-package com.jossegonnza.junit_project;
+package com.jossegonnza.junit_project.moneyUtil;
 
 import org.junit.Assert;
 import org.junit.Test;
